@@ -133,5 +133,65 @@
       "https://shivraj-chavan.github.io/api/electronics/mobile/7/5.jpg"
     ],
     "thumbnail": "https://shivraj-chavan.github.io/api/electronics/mobile/7/1.jpg"
-  }
+  },
+  {
+    "id":8,
+    "title":"Lava Agni 5G ",
+    "heading":"Lava Agni 5G |64 MP AI Quad Camera| (8GB RAM/128 GB ROM)| 5000 mAh Battery| Superfast 30W Fast Charging| 6.78 inch Big Screen (Fiery Blue)",
+    "description":[
+    "First Indian 5G smartphone"
+    ,
+    "Powered by MediaTek Dimensity 810 5G Processor",
+    "A winning combination of 8 + 128 GB RAM and ROM."
+    ],
+    "price":"17,990",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/mobile/8/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/8/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/8/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/8/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/8/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/mobile/8/1.jpg"
+    },
+    {
+        "id":9,
+        "title":"Samsung Galaxy M33 5G",
+        "heading":"Samsung Galaxy M33 5G (Mystique Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+        "description":[
+        "Exynos 1280 Octa Core 2.4GHz 5nm Processor with the 12 band support for a True 5G experience"
+        ,
+        "16.72 centimeters (6.6-inch) LCD Display, FHD+ resolution, 1080x2400 pixels protected by Gorilla Glass 5",
+        "Versatile Quad camera setup-50MP (F1.8)+ 5MP (F2.2/UW- 123 FOV) + 2MP (F2.4/Depth) + 2MP (F2.4/Macro) QuadCamera| 8MP (F1.8) Front Camera"
+        ],
+        "price":"15,999",
+        "images":[
+        "https://shivraj-chavan.github.io/api/electronics/mobile/9/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/mobile/9/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/mobile/9/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/mobile/9/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/mobile/9/5.jpg"
+        ],
+        "thumbnail":"https://shivraj-chavan.github.io/api/electronics/mobile/9/1.jpg"
+        },
+        {
+            "id":10,
+            "title":"iQOO Neo 6 5G",
+            "heading":"iQOO Neo 6 5G (Dark Nova, 8GB RAM, 128GB Storage) | Only Snapdragon 870 in The Segment | 50% Charge in Just 12 Mins | 90 FPS Gaming Support*",
+            "description":[
+            "Snapdragon 870 5G Mobile Platform which is a 7nm process technology, It is equipped with A77 architecture adopts a large core clocked at 3.2GHz, a middle core at 2.42GHz, and a small core at 1.8GHz."
+            ,
+            "80W FlashCharge Technology with 4700mAh Battery",
+            "120Hz E4 AMOLED Display | 1300nits Peak Brightness | 6000000:1 Contrast Ratio | SGS Eye Care Certificate | HDR 10+ | Netflix HDR"
+            ],
+            "price":"15,999",
+            "images":[
+            "https://shivraj-chavan.github.io/api/electronics/mobile/10/1.jpg",
+            "https://shivraj-chavan.github.io/api/electronics/mobile/10/2.jpg",
+            "https://shivraj-chavan.github.io/api/electronics/mobile/10/3.jpg",
+            "https://shivraj-chavan.github.io/api/electronics/mobile/10/4.jpg",
+            "https://shivraj-chavan.github.io/api/electronics/mobile/10/5.jpg"
+            ],
+            "thumbnail":"https://shivraj-chavan.github.io/api/electronics/mobile/10/1.jpg"
+            }
 ]

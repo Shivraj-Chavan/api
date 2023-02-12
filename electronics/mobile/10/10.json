@@ -1,0 +1,20 @@
+{
+    "id":10,
+    "title":"iQOO Neo 6 5G",
+    "heading":"iQOO Neo 6 5G (Dark Nova, 8GB RAM, 128GB Storage) | Only Snapdragon 870 in The Segment | 50% Charge in Just 12 Mins | 90 FPS Gaming Support*",
+    "description":[
+    "Snapdragon 870 5G Mobile Platform which is a 7nm process technology, It is equipped with A77 architecture adopts a large core clocked at 3.2GHz, a middle core at 2.42GHz, and a small core at 1.8GHz."
+    ,
+    "80W FlashCharge Technology with 4700mAh Battery",
+    "120Hz E4 AMOLED Display | 1300nits Peak Brightness | 6000000:1 Contrast Ratio | SGS Eye Care Certificate | HDR 10+ | Netflix HDR"
+    ],
+    "price":"15,999",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/mobile/10/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/10/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/10/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/10/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/10/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/mobile/10/1.jpg"
+    }
