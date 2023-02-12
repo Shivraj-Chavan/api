@@ -1,0 +1,20 @@
+{
+    "id":2,
+    "title":"Redmi Note 12 5G",
+    "heading":"Redmi Note 12 5G Matte Black 4GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+    "description":[
+    "Display: Super AMOLED (1080x2400) Display with 120Hz Refresh rate; 1200nits peak brightness; 240Hz Touch sampling rate"
+    ,
+    "Processor: Snapdragon 4 Gen1 6nm Octa-core 5G processor for high performance and efficiency with Adreno 619 GPU; Up to 2.0GHz",
+    "Camera: 48MP AI Triple camera setup with 8MP Ultra Wide sensor and 2MP Macro camera| 13MP Front camera"
+    ],
+    "price":"17,999",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/mobile/2/1.webp",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/2/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/2/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/2/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/2/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/mobile/2/1.webp"
+    }

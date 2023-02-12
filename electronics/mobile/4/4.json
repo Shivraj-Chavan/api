@@ -1,0 +1,20 @@
+{
+    "id":4,
+    "title":"OnePlus 11 5G",
+    "heading":"OnePlus 11 5G (Titan Black, 8GB RAM, 128GB Storage)",
+    "description":[
+    "Camera: 50MP Main Camera with Sony IMX890 (OIS supported), 48MP Ultrawide Camera with Sony IMX581 (FOV: 115 degree) and 32MP Telephoto lens with Sony IMX709 (2X Optical Zoom); 16MP Front (Selfie) Camera with EIS support"
+    ,
+    "Camera Modes: Photo, Video, Night, PRO, PANO, Portrait, TIME-LAPSE, SLO-MO, Text scanner, Movie, Long Exposure, Dual-view video, TILT-SHIFT, XPAN, Scan, STICKER, and AI ID photo",
+    "Display: 6.7 Inches; 120 Hz AMOLED QHD Display with Corning Gorilla Glass Victus; Resolution: 3216 X 1440 pixels; HDR 10+, sRGB, 10-bit Color Depth, PWM + DC dimming"
+    ],
+    "price":"56,999",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/mobile/4/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/4/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/4/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/4/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/4/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/mobile/4/1.jpg"
+    }

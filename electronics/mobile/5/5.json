@@ -1,0 +1,20 @@
+{
+    "id":5,
+    "title":"Apple iPhone 14",
+    "heading":"Apple iPhone 14 Pro Max 1TB Gold",
+    "description":[
+    "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion"
+    ,
+    "Dynamic Island, a magical new way to interact with iPhone",
+    "48MP Main camera for up to 4x greater resolution"
+    ],
+    "price":"1,89,900",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/mobile/5/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/5/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/5/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/5/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/mobile/5/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/mobile/5/1.jpg"
+    }
