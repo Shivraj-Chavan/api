@@ -1,0 +1,20 @@
+{
+    "id":8,
+    "title":"Acer Aspire 5 Gaming",
+    "heading":"Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (12-Cores) Processor (16 GB/512 GB SSD/Windows 11 Home/4GB Graphics/NVIDIA GeForce RTX 2050) A515-57G (15.6 inch Full HD Display, Steel Gray, 1.8 Kg)",
+    "description":[
+    "High Performance : Encounter high speed processing with the latest 12th Gen Intel Core i5-1240P Processor that ensure smooth gaming experience"
+    ,
+    "Dual-channel DDR4 SDRAM support: 16 GB of DDR4 system memory upgradable up to 32 GB using two soDIMM modules",
+    "NVIDIA GeForce RTX 2050 - 4G-GDDR6 VRAM"
+    ],
+    "price":"63,490",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/laptop/8/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/8/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/8/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/8/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/8/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/laptop/8/1.jpg"
+}

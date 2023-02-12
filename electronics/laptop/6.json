@@ -1,0 +1,20 @@
+{
+    "id":6,
+    "title":"Lenovo IdeaPad Slim",
+    "heading":"Lenovo IdeaPad Slim 3 Intel Celeron N4020 14 (35.36cm) HD Thin & Light Laptop (4GB/256GB SSD/Windows 10/Platinum Grey/1.5Kg), 81WH001NIN",
+    "description":[
+    "Free upgrade to Windows 11 when available* Disclaimer-*The Windows 11 upgrade will be delivered late 2021 into 2022. Specific timing varies by device. Certain features require specific hardware."
+    ,
+    "Processor: Intel Celeron N4020 | Speed: 1.1 GHz (Base) - 2.8 GHz (Max) | 2 Cores | 4MB Cache.",
+    "OS: Pre-Loaded Windows 10 Home with Lifetime Validity, FREE Upgrade to Windows 11* (when available)"
+    ],
+    "price":"26,750",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/laptop/6/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/6/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/6/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/6/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/6/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/laptop/6/1.jpg"
+}

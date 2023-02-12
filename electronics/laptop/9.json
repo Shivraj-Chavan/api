@@ -1,0 +1,20 @@
+{
+    "id":9,
+    "title":"Acer Nitro 5 Gaming",
+    "heading":"Acer Nitro 5 Gaming Laptop Intel core i7 11th Gen (16 GB/ 512 GB SSD/ NVIDIA® GeForce RTX 3050 Ti/ Windows 11 Home/144hz) AN515-57 with 39.6 cm (15.6 inches) IPS Display / 2.2 Kgs",
+    "description":[
+    "Processor : Intel Core i7-11800H processor |RAM : 16 GB of DDR4 system memory, upgradable to 32 GB using two soDIMM module"
+    ,
+    "Display : 15.6 display with IPS (In-Plane Switching) technology, Full HD 1920 x 1080, Acer ComfyView LED-backlit TFT LCD, 16:9 aspect ratio, supporting 144 Hz refresh rate",
+    "Graphics : NVIDIA GeForce RTX 3050 Ti with 4 GB of GDDR6 memory"
+    ],
+    "price":"82,990",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/laptop/9/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/9/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/9/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/9/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/9/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/laptop/9/1.jpg"
+}

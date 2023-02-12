@@ -1,0 +1,20 @@
+{
+    "id":7,
+    "title":"ASUS BR1100 Notebook",
+    "heading":"ASUS BR1100 Notebook 12 (2022), 11.6-inch HD, Touch Screen, Intel Celeron N4500, (4GB RAM/128GB M.2 NVMe PCIe/Integrated Graphics/Windows 11 Home/Star Grey/1.40 Kg), BR1100FKA-BP1104W, Gray",
+    "description":[
+    "Processor: Intel Celeron N4500, 1.1 GHz base speed, Up to 2.8 GHz , 2 cores, 4MB Cache"
+    ,
+    "Memory & Storage: 4GB DDR4 RAM | Storage: 128GB M.2 NVMe PCIe 3.0 SSD",
+    "Graphics: Integrated Intel UHD Graphics"
+    ],
+    "price":"29,990",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/laptop/7/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/7/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/7/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/7/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/7/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/laptop/7/1.jpg"
+}

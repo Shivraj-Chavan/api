@@ -1,0 +1,20 @@
+{
+    "id":4,
+    "title":"Infinix INBook X1",
+    "heading":"Infinix INBook X1 Neo Series Celeron Quad Core - (Intel, 4 GB/128 GB SSD/Windows 11 Home) XL22 Thin and Light Laptop (14 inch (35 cm) Cosmic Blue, 1.24 kg)",
+    "description":[
+    "PROCESSOR : Intel Celeron Quad Core N5100 (Base Frequency 1.1 GHz, Max Turbo Frequency at 2.8 GHz)"
+    ,
+    "RAM : 4GB LPDDR4X 2933 MHz RAM",
+    "STORAGE : 128 GB SSD NVMe PCIE 3.0"
+    ],
+    "price":"22,990",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/laptop/4/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/4/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/4/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/4/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/4/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/laptop/4/1.jpg"
+}

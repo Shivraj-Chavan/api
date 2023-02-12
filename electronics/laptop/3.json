@@ -1,0 +1,20 @@
+{
+    "id":3,
+    "title":"Microsoft Surface GO",
+    "heading":"Microsoft Surface GO 3 8VA-00013 10.5' (26.67 cms) Laptop (Intel Pentium T6600 Processor/8GB/128GB SSD/Windows 11 Home), Platinum",
+    "description":[
+    "Processor: Intel Pentium T6600 Processor gives your daily tasks and apps an added boost"
+    ,
+    "Memory and Storage: 8GB LPDDR3 RAM | 128GB SSD",
+    "Display: 10.5 inch touch screen; 4:3 Aspect Ratio | 1920 x 1280 pixels | 1500:1 contrast ratio"
+    ],
+    "price":"59,999",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/laptop/3/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/3/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/3/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/3/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/3/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/laptop/3/1.jpg"
+}

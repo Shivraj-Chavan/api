@@ -1,0 +1,20 @@
+{
+    "id":10,
+    "title":"Fujitsu UH-X",
+    "heading":"Fujitsu UH-X 11th Gen Intel Core i7 13.3 FHD IPS 400Nits 2-in1 Touch Convertible Laptop (16GB/1TB SSD/Windows 11/MS Office 2021/Iris Xe Graphics/2 Yr Warranty/Backlit Kb/Black/0.997 kg, 4ZR1F38027)",
+    "description":[
+    "Build : Made in Japan | Built with Takumi craftsmanship"
+    ,
+    "Processor: 11th Gen Intel Tiger Lake Core i7-1165G7 | Speed: 2.8 GHz (Base) - 4.7 GHz (Max) | 4 Cores | 12MB Cache",
+    "OS: Pre-Loaded Windows 11 Home with Lifetime Validity"
+    ],
+    "price":"89,990",
+    "images":[
+    "https://shivraj-chavan.github.io/api/electronics/laptop/10/1.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/10/2.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/10/3.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/10/4.jpg",
+    "https://shivraj-chavan.github.io/api/electronics/laptop/10/5.jpg"
+    ],
+    "thumbnail":"https://shivraj-chavan.github.io/api/electronics/laptop/10/1.jpg"
+}
