@@ -1,0 +1,20 @@
+{
+"id":2,
+ "category":"watch",
+    "title":"Noise Newly Launched",
+"heading":"Noise Newly Launched Twist Bluetooth Calling Smart Watch with 1.38' TFT Biggest Display, Up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Jet Black)",
+"description":[
+"1.38” TFT display: Featuring a vibrant round display and a stylish metallic finish, the smartwatch offers a premium on-screen experience.",
+"Tru SyncTM: Hassle-free pairing, stable connectivity and lower battery consumption combine to provide the most advanced calling experience.",
+"Noise Buzz: Manage calls directly from your wrist. Access your call logs, make calls from the dial pad and save up to 10 favourite contacts."
+],
+"price":"1,999",
+"images":[
+"https://shivraj-chavan.github.io/api/electronics/watch/2/1.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/2/2.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/2/3.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/2/4.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/2/5.jpg"
+],
+"thumbnail":"https://shivraj-chavan.github.io/api/electronics/watch/1/1.jpg"
+}

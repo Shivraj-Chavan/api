@@ -1,0 +1,20 @@
+{
+"id":10,
+"category":"watch",
+"title":"Samsung Galaxy",
+"heading":"Samsung Galaxy Watch5 Bluetooth (40 mm, Pink Gold, Compatible with Android only)",
+"description":[
+"Sleep Tracking: Know your sleep with our new and improved sleep tracking technology. Plan your bedtime, detect snoring, understand and track your sleep.",
+"Body composition Analysis (BIA Measurement): Monitor everything from body fat percentage (BIA) to skeletal muscle weight. All the feedback you need to track your progress.",
+"Optical Heart Rate Sensor: Monitor your heart rate and track your cardiovascular health."
+],
+"price":"28,565",
+"images":[
+"https://shivraj-chavan.github.io/api/electronics/watch/10/1.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/10/2.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/10/3.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/10/4.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/10/5.jpg"
+],
+"thumbnail":"https://shivraj-chavan.github.io/api/electronics/watch/10/1.jpg"
+}

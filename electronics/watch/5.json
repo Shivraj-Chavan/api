@@ -1,0 +1,20 @@
+{
+"id":5,
+"category":"watch",
+"title":"Samsung Galaxy Watch4",
+"heading":"Samsung Galaxy Watch4 LTE (4.4 cm, Black, Compatible with Android only)",
+"description":[
+"Only compatible with Android Smartphones (Runs on Wear OS Powered by Samsung)",
+"Bioelectrical Impedance Analysis Sensor for Body Composition Analysis, Optical Heart Rate Sensor.",
+"Health Monitoring features such as Advanced Sleep Analysis & Women's Health."
+],
+"price":"16,780",
+"images":[
+"https://shivraj-chavan.github.io/api/electronics/watch/5/1.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/5/2.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/5/3.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/5/4.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/5/5.jpg"
+],
+"thumbnail":"https://shivraj-chavan.github.io/api/electronics/watch/5/1.jpg"
+}

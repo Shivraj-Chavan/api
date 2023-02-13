@@ -1,0 +1,20 @@
+{
+"id":7,
+"category":"watch",
+"title":"Apple Watch Ultra ",
+"heading":"Apple Watch Ultra [GPS + Cellular 49 mm] Smart Watch w/ Rugged Titanium Case & White Ocean Band. Fitness Tracker, Precision GPS, Action Button, Extra-Long BatteryLife, Brighter Retina Display",
+"description":[
+"WHY APPLE WATCH ULTRA — Rugged and capable, built to meet the demands of endurance athletes, outdoor adventurers and water sports enthusiasts — with a specialised strap for each. Up to 36 hours of battery life, plus all the Apple Watch features that help you stay healthy, safe and connected.",
+"EXTREMELY RUGGED, INCREDIBLY CAPABLE — 49-millimetre corrosion-resistant titanium case. Larger Digital Crown and more accessible buttons. 100-metre water resistance. Customisable Action button for instant physical control over a variety of functions.",
+"BIGGEST, BRIGHTEST DISPLAY YET— A bright Always-On Retina display that’s easy to see, even in direct sunlight. More room for adding complications to customise your watch face."
+],
+"price":"89,899",
+"images":[
+"https://shivraj-chavan.github.io/api/electronics/watch/7/1.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/7/2.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/7/3.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/7/4.jpg",
+"https://shivraj-chavan.github.io/api/electronics/watch/7/5.jpg"
+],
+"thumbnail":"https://shivraj-chavan.github.io/api/electronics/watch/7/1.jpg"
+}
