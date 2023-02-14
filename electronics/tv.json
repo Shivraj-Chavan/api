@@ -1,0 +1,203 @@
+[
+	{
+		"id": 1,
+		"category": "tv",
+        "title": "Toshiba",
+		"heading": "Toshiba 108 cm (43 inches) Bezelless Series 4K Ultra HD Smart LED Google TV 43C350LP (Silver)",
+		"description": [
+			"Resolution : 4K Ultra HD (3840x2160) | Refresh Rate : 60 Hertz | ALLM VRR Supported | Bezel-less Design",
+			"Connectivity: 3 HDMI ports to connect set top box, Blu Ray players, gaming console (HDMI 1 eARC supported) | 2 USB ports to connect hard drives and other USB devices | Dual-band Wi-Fi | Bluetooth 5.0",
+			" Sound : 24 Watts Output powered by REGZA Power Audio| Dolby Atmos | Dolby Digital for remarkable sound quality"
+		],
+		"price": "26,299",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/1/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/1/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/1/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/1/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/1/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/1/1.jpg"
+	},
+	{
+		"id": 2,
+		"category": "tv",
+        "title": "TCL",
+		"heading": "TCL 100 cm (40 inches) Full HD Certified Android R Smart LED TV 40S6505 (Black)",
+		"description": [
+			"Resolution: Full HD (1920 x 1080) | Refresh Rate: 60 Hertz.",
+			"Connectivity: 2 HDMI Ports to connect set top box, Blu Ray players, gaming console | 1 USB Ports to connect hard drives and other USB devices ",
+			"Sound : 20 Watts Output | Powerful 2 Stero Integrated Speaker Boxes with Dolby Audio"
+		],
+		"price": "17,499",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/2/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/2/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/2/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/2/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/2/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/2/1.jpg"
+	},
+	{
+		"id": 3,
+		"category": "tv",
+        "title": "OnePlus",
+		"heading": "OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black)",
+		"description": [
+			"Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz",
+			"Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices, Dimensions(TV With Stand) - 71.3cm*20cm*46.9cm, VESA Hole Pitch - 20cm*20cm",
+			"Smart TV Features: Android TV 9.0 | OnePlus Connect | Google Assistant | Play Store | Chromecast | Shared Album | Supported Apps : Netflix, YouTube, Prime video | Content Calendar | OxygenPlay"
+		],
+		"price": "14,999",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/3/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/3/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/3/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/3/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/3/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/3/1.jpg"
+	},
+	{
+		"id": 4,
+		"category": "tv",
+        "title": "Redmi",
+		"heading": "Redmi 80 cm (32 inches) Android 11 Series HD Ready Smart LED TV | L32M6-RA/L32M7-RA (Black)",
+		"description": [
+			"Resolution: HD Ready (1366 x 768) | Refresh Rate: 60 hertz | 178 Degree wide viewing angle",
+			"Connectivity: 2 HDMI ports to connect set top box, Blu-Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices | 3.5mm to connect your headphones | Bluetooth 5.0 to connect Bluetooth speakers, earphones and TWS earphones",
+			"Sound: 20 Watts Powerful Stereo Speakers | Dolby Audio | DTS Virtual: X and DTS-HD | Dolby Atmos pass through ARC port"
+		],
+		"price": "11,999",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/4/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/4/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/4/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/4/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/4/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/4/1.jpg"
+	},
+	{
+		"id": 5,
+		"category": "tv",
+        "title": "VW ",
+		"heading": "VW 80 cm (32 inches) HD Ready Android Smart LED TV VW32S (Black)",
+		"description": [
+			"Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz | Viewing Angle: 178 degrees",
+			"Connectivity: 1 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+			"Sound : 20 Watts output | Powerful Stereo Output | Power Audio, Music Equalizer"
+		],
+		"price": "7,999",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/5/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/5/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/5/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/5/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/5/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/5/1.jpg"
+	},
+	{
+		"id": 6,
+		"category": "tv",
+        "title": "Samsung",
+		"heading": "Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
+		"description": [
+			"Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz",
+			"Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices",
+			"Sound : 20 Watts Output | Dolby Digital Plus Smart TV Features : Personal Computer | Screen Share | Music System | Content Guide | Connect Share Movie"
+		],
+		"price": "13,299",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/6/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/6/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/6/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/6/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/6/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/6/1.jpg"
+	},
+	{
+		"id": 7,
+		"category": "tv",
+        "title": "LG",
+		"heading": "LG 80 cm (32 inches) HD Ready Smart LED TV 32LM563BPTC (Dark Iron Gray)",
+		"description": [
+			"Resolution: HD Ready (1366x768) | Refresh Rate: 50 hertz",
+			"Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices",
+			"Sound output: 10 Watts Output I 2 Speakers | DTS Virtual:X | Sound Type : Down Firing Smart TV Features: Web OS Smart TV | Wi-Fi | Home Dashboard | Screen Mirroring | Mini TV Browser | Multi-Tasking | Office 365, Set"
+		],
+		"price": "13,949",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/7/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/7/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/7/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/7/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/7/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/7/1.jpg"
+	},
+	{
+		"id": 8,
+		"category": "tv",
+        "title": "Acer",
+		"heading": "Acer 80 cm (32 inches) I Series HD Ready Android Smart LED TV AR32AR2841HDFL (Black)",
+		"description": [
+			"Resolution : HD Ready (1366x768) | Refresh Rate : 60 Hertz | 178 Degree wide viewing angle",
+			"Connectivity: Dual band Wifi | 2 way Bluetooth | HDMI ports 2.0 x 2 (HDMI 1 supports ARC) to connect personal computer, laptop, set top box, Blu-ray speakers or a gaming console | USB ports 2.0 x 2 to connect hard drives or other USB device",
+			"Sound: 24 Watts Output | High Fidelity Speakers with Dolby Audio | 5 Sound Modes - Movie, Music, Standard, News, Sports"
+		],
+		"price": "11,499",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/8/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/8/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/8/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/8/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/8/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/8/1.jpg"
+	},
+	{
+		"id": 9,
+		"category": "tv",
+        "title": "OnePlus 108 cm",
+		"heading": "OnePlus 108 cm (43 inches) Y Series 4K Ultra HD Smart Android LED TV 43Y1S Pro (Black)",
+		"description": [
+			"Resolution : 4K Ultra HD (3840x2160) | Refresh Rate : 60 Hertz",
+			"Connectivity: 3 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices | Dual-band Wi-Fi Sound : 24 Watts Output | Dolby Audio | Dolby Atmos Decoding",
+			"Smart TV features: Android TV | OnePlus Connect Ecosystem| Google Assistant | Chromecast, Miracast, DLNA | Auto Low Latency Mode | Supported Apps : Netflix, Youtube, Prime Video, Hotstar, SonyLiv, Hungama, JioCinema, Zee5, Eros Now, Oxygen Play"
+		],
+		"price": "28,999",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/9/1.webp",
+			"https://shivraj-chavan.github.io/api/electronics/tv/9/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/9/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/9/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/9/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/9/1.jpg"
+	},
+	{
+		"id": 10,
+		"category": "tv",
+        "title": "iFFALCON ",
+		"heading": "iFFALCON 80 cm (32 inches) HD Ready Smart LED TV 32F53 (Black)",
+		"description": [
+			"Resolution: HD Ready (1366 x 768) | Refresh Rate: 60 hertz",
+			"Connectivity: 2 HDMI Ports to connect set top box | 1 USB ports to connect hard drives or other USB devices | IR Port to control connected devices like DVD / STB Players",
+			"Sound: 16 Watts Output | Powerful Speakers with Dolby Audio Smart TV Features : Android R 11 |1 GB RAM | 8 GB ROM | Packed with amazing smart features such as Google Voice Search, Google App Store and Built-in Chromecast. Google Play Store, YouTube, Google cast, Netflix."
+		],
+		"price": "9,499",
+		"images": [
+			"https://shivraj-chavan.github.io/api/electronics/tv/10/1.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/10/2.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/10/3.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/10/4.jpg",
+			"https://shivraj-chavan.github.io/api/electronics/tv/10/5.jpg"
+		],
+		"thumbnail": "https://shivraj-chavan.github.io/api/electronics/airdopes/10/1.jpg"
+
+	}
+]

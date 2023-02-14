@@ -1,0 +1,20 @@
+{
+    "id": 5,
+    "category": "airdopes",
+    "title": "Sennheiser",
+    "heading": "Sennheiser CX True Wireless in Ear Earbuds - Headphone with Mic for Music and Calls with Passive Noise Cancellation, Customizable Touch Controls, Bass Boost, IPX4 and 27-Hour Battery Life, Black",
+    "description": [
+        "Experience superior sound without compromise: Powered by German-made 7mm TrueResponse transducers with a wide range of Bluetooth codec support (AAC, aptX, SBC)",
+        "Long battery life: Get up to 27 hours of music playtime with on the go charging with the high quality case that comes with the product",
+        "Passive Noise Cancellation and light-weight ergonomic design: The ergonomic design offers optimal comfort and a secure fit with 4 ear adapter sizes for excellent passive noise cancellation"
+    ],
+    "price": "5,999",
+    "images": [
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/5/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/5/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/5/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/5/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/5/5.jpg"
+    ],
+    "thumbnail": "https://shivraj-chavan.github.io/api/electronics/airdopes/5/1.jpg"
+}

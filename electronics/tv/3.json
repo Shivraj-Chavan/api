@@ -1,0 +1,20 @@
+{
+    "id": 3,
+    "category": "tv",
+    "title": "OnePlus",
+    "heading": "OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black)",
+    "description": [
+        "Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz",
+        "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices, Dimensions(TV With Stand) - 71.3cm*20cm*46.9cm, VESA Hole Pitch - 20cm*20cm",
+        "Smart TV Features: Android TV 9.0 | OnePlus Connect | Google Assistant | Play Store | Chromecast | Shared Album | Supported Apps : Netflix, YouTube, Prime video | Content Calendar | OxygenPlay"
+    ],
+    "price": "14,999",
+    "images": [
+        "https://shivraj-chavan.github.io/api/electronics/tv/3/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/3/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/3/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/3/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/3/5.jpg"
+    ],
+    "thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/3/1.jpg"
+}

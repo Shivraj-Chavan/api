@@ -1,0 +1,20 @@
+{
+    "id": 10,
+    "category": "airdopes",
+    "title": "JBL Wave 200 ",
+    "heading": "JBL Wave 200 True Wireless In Ear Earbuds with Mic, 20 Hours Playtime, Deep Bass Sound, Dual Connect Technology, Quick Charge, Comfort Fit Ergonomic Design, Voice Assistant Support for Mobiles (Black)",
+    "description": [
+        "JBL DEEP BASS SOUND: Feel the sound with the Deep Bass powered by the 8mm Dynamic drivers and add fun to your routine.",
+        "UPTO 20 HOURS OF PLAYTIME: With 5 hours in the earbuds and 15 hours in the case, the JBL Wave 200TWS don’t drop until you do.",
+        "QUICK CHARGE: Running Low on Charge, worry not. A quick 15min of charge provides you with playtime upto an Hour."
+    ],
+    "price": "2,499",
+    "images": [
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/10/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/10/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/10/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/10/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/10/5.jpg"
+    ],
+    "thumbnail": "https://shivraj-chavan.github.io/api/electronics/airdopes/10/1.jpg"
+}

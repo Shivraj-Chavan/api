@@ -1,0 +1,17 @@
+{
+    "id":4,
+    "category":"airdopes",
+        "title":"Jabra Elite 3",
+    "heading":"Jabra Elite 3 in Ear Bluetooth Truly Wireless in Ear Earbuds, Noise Isolating with mic for Clear Calls, Rich Bass, Customizable Sound, Mono Mode - Dark Grey",
+    "description":["Unique sound experience: The ergonomically designed wireless earphones offer class-leading customization options, high-quality sound with powerful bass and a battery life of up to 28 hours",
+    "Intelligent noise control: For optimal on the go listening, the Elite 3 offers unique noise isolation whilst providing on demand external noise pickup with HearThrough technology",
+    "Impeccable call quality: Our compact earbuds with classic Danish design come with four microphones for crystal-clear conversations - ensuring reliable voice pick up anywhere"],
+    "price":"3,999",
+    "images":["https://shivraj-chavan.github.io/api/electronics/airdopes/4/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/4/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/4/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/4/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/airdopes/4/5.jpg"],
+        "thumbnail": "https://shivraj-chavan.github.io/api/electronics/airdopes/4/1.jpg"
+
+    }

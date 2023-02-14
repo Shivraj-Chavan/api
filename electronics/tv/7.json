@@ -1,0 +1,20 @@
+{
+    "id": 7,
+    "category": "tv",
+    "title": "LG",
+    "heading": "LG 80 cm (32 inches) HD Ready Smart LED TV 32LM563BPTC (Dark Iron Gray)",
+    "description": [
+        "Resolution: HD Ready (1366x768) | Refresh Rate: 50 hertz",
+        "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices",
+        "Sound output: 10 Watts Output I 2 Speakers | DTS Virtual:X | Sound Type : Down Firing Smart TV Features: Web OS Smart TV | Wi-Fi | Home Dashboard | Screen Mirroring | Mini TV Browser | Multi-Tasking | Office 365, Set"
+    ],
+    "price": "13,949",
+    "images": [
+        "https://shivraj-chavan.github.io/api/electronics/tv/7/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/7/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/7/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/7/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/7/5.jpg"
+    ],
+    "thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/7/1.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 4,
+    "category": "tv",
+    "title": "Redmi",
+    "heading": "Redmi 80 cm (32 inches) Android 11 Series HD Ready Smart LED TV | L32M6-RA/L32M7-RA (Black)",
+    "description": [
+        "Resolution: HD Ready (1366 x 768) | Refresh Rate: 60 hertz | 178 Degree wide viewing angle",
+        "Connectivity: 2 HDMI ports to connect set top box, Blu-Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices | 3.5mm to connect your headphones | Bluetooth 5.0 to connect Bluetooth speakers, earphones and TWS earphones",
+        "Sound: 20 Watts Powerful Stereo Speakers | Dolby Audio | DTS Virtual: X and DTS-HD | Dolby Atmos pass through ARC port"
+    ],
+    "price": "11,999",
+    "images": [
+        "https://shivraj-chavan.github.io/api/electronics/tv/4/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/4/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/4/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/4/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/4/5.jpg"
+    ],
+    "thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/4/1.jpg"
+}

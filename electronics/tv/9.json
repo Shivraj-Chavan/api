@@ -1,0 +1,20 @@
+{
+    "id": 9,
+    "category": "tv",
+    "title": "OnePlus 108 cm",
+    "heading": "OnePlus 108 cm (43 inches) Y Series 4K Ultra HD Smart Android LED TV 43Y1S Pro (Black)",
+    "description": [
+        "Resolution : 4K Ultra HD (3840x2160) | Refresh Rate : 60 Hertz",
+        "Connectivity: 3 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices | Dual-band Wi-Fi Sound : 24 Watts Output | Dolby Audio | Dolby Atmos Decoding",
+        "Smart TV features: Android TV | OnePlus Connect Ecosystem| Google Assistant | Chromecast, Miracast, DLNA | Auto Low Latency Mode | Supported Apps : Netflix, Youtube, Prime Video, Hotstar, SonyLiv, Hungama, JioCinema, Zee5, Eros Now, Oxygen Play"
+    ],
+    "price": "28,999",
+    "images": [
+        "https://shivraj-chavan.github.io/api/electronics/tv/9/1.webp",
+        "https://shivraj-chavan.github.io/api/electronics/tv/9/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/9/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/9/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/9/5.jpg"
+    ],
+    "thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/9/1.jpg"
+}

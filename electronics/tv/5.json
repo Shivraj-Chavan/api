@@ -1,0 +1,20 @@
+{
+    "id": 5,
+    "category": "tv",
+    "title": "VW ",
+    "heading": "VW 80 cm (32 inches) HD Ready Android Smart LED TV VW32S (Black)",
+    "description": [
+        "Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz | Viewing Angle: 178 degrees",
+        "Connectivity: 1 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+        "Sound : 20 Watts output | Powerful Stereo Output | Power Audio, Music Equalizer"
+    ],
+    "price": "7,999",
+    "images": [
+        "https://shivraj-chavan.github.io/api/electronics/tv/5/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/5/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/5/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/5/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/5/5.jpg"
+    ],
+    "thumbnail": "https://shivraj-chavan.github.io/api/electronics/tv/5/1.jpg"
+}

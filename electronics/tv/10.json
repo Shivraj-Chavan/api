@@ -1,0 +1,21 @@
+{
+    "id": 10,
+    "category": "tv",
+    "title": "iFFALCON ",
+    "heading": "iFFALCON 80 cm (32 inches) HD Ready Smart LED TV 32F53 (Black)",
+    "description": [
+        "Resolution: HD Ready (1366 x 768) | Refresh Rate: 60 hertz",
+        "Connectivity: 2 HDMI Ports to connect set top box | 1 USB ports to connect hard drives or other USB devices | IR Port to control connected devices like DVD / STB Players",
+        "Sound: 16 Watts Output | Powerful Speakers with Dolby Audio Smart TV Features : Android R 11 |1 GB RAM | 8 GB ROM | Packed with amazing smart features such as Google Voice Search, Google App Store and Built-in Chromecast. Google Play Store, YouTube, Google cast, Netflix."
+    ],
+    "price": "9,499",
+    "images": [
+        "https://shivraj-chavan.github.io/api/electronics/tv/10/1.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/10/2.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/10/3.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/10/4.jpg",
+        "https://shivraj-chavan.github.io/api/electronics/tv/10/5.jpg"
+    ],
+    "thumbnail": "https://shivraj-chavan.github.io/api/electronics/airdopes/10/1.jpg"
+
+}
