@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Tecno Spark 9",
+         "category":"mobile",
+    "title": "Tecno Spark 9",
         "heading": "Tecno Spark 9 (Sky Mirror, 4GB RAM,64GB Storage) | 7GB Expandable RAM | Helio G37 Gaming Processor",
         "description": [
             "Upto 7GB larger RAM (4GB LPDDR4x + 3GB Virtual RAM) with the help of memory fusion technology | 37% improvement in apps switching | 64GB eMCP ROM | No support for Africa's frequency bands | Warranty In India Only",
@@ -20,7 +21,8 @@
     },
     {
         "id": 2,
-        "title": "Redmi Note 12 5G",
+         "category":"mobile",
+    "title": "Redmi Note 12 5G",
         "heading": "Redmi Note 12 5G Matte Black 4GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
         "description": [
             "Display: Super AMOLED (1080x2400) Display with 120Hz Refresh rate; 1200nits peak brightness; 240Hz Touch sampling rate",
@@ -39,7 +41,8 @@
     },
     {
         "id": 3,
-        "title": "Redmi K50i 5G",
+         "category":"mobile",
+    "title": "Redmi K50i 5G",
         "heading": "Redmi K50i 5G (Phantom Blue, 8GB RAM, 256GB Storage)| Flagship Mediatek Dimensity 8100 Processor | 144Hz Liquid FFS Display",
         "description": [
             "The 5G enabled Dimensity 8100 SoC built on TSMC’s advanced 5nm process technology has 25% better CPU power efficiency over previous Dimensity chips. Combined with LPDDR5 RAM and UFS 3.1 storage the device elevates the gaming experience to new heights. The device can maintain sustained peak performance owing to the better heat dissipation via a large vapor chamber cooling system with 7 layers of graphite",
@@ -58,7 +61,8 @@
     },
     {
         "id": 4,
-        "title": "OnePlus 11 5G",
+         "category":"mobile",
+    "title": "OnePlus 11 5G",
         "heading": "OnePlus 11 5G (Titan Black, 8GB RAM, 128GB Storage)",
         "description": [
             "Camera: 50MP Main Camera with Sony IMX890 (OIS supported), 48MP Ultrawide Camera with Sony IMX581 (FOV: 115 degree) and 32MP Telephoto lens with Sony IMX709 (2X Optical Zoom); 16MP Front (Selfie) Camera with EIS support",
@@ -77,7 +81,8 @@
     },
     {
         "id": 5,
-        "title": "Apple iPhone 14",
+         "category":"mobile",
+    "title": "Apple iPhone 14",
         "heading": "Apple iPhone 14 Pro Max 1TB Gold",
         "description": [
             "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion",
@@ -96,7 +101,8 @@
     },
     {
         "id": 6,
-        "title": "iQOO Neo 6 5G ",
+         "category":"mobile",
+    "title": "iQOO Neo 6 5G ",
         "heading": "iQOO Neo 6 5G (Dark Nova, 8GB RAM, 128GB Storage) | Only Snapdragon 870 in The Segment | 50% Charge in Just 12 Mins | 90 FPS Gaming Support*",
         "description": [
             "Snapdragon 870 5G Mobile Platform which is a 7nm process technology, It is equipped with A77 architecture adopts a large core clocked at 3.2GHz, a middle core at 2.42GHz, and a small core at 1.8GHz.",
@@ -115,7 +121,8 @@
     },
     {
         "id": 7,
-        "title": "Oppo A78 5G",
+         "category":"mobile",
+    "title": "Oppo A78 5G",
         "heading": "Oppo A78 5G (Glowing Blue, 8GB RAM, 128 Storage) | 5000 mAh Battery with 33W SUPERVOOC Charger| 50MP AI Camera | 90Hz Refresh Rate | with No Cost EMI/Additional Exchange Offers",
         "description": [
             "Big 5000 mAh Battery with 33W SUPERVOOC Charging",
@@ -134,7 +141,8 @@
     },
     {
         "id": 8,
-        "title": "Lava Agni 5G ",
+         "category":"mobile",
+    "title": "Lava Agni 5G ",
         "heading": "Lava Agni 5G |64 MP AI Quad Camera| (8GB RAM/128 GB ROM)| 5000 mAh Battery| Superfast 30W Fast Charging| 6.78 inch Big Screen (Fiery Blue)",
         "description": [
             "First Indian 5G smartphone",
@@ -153,7 +161,8 @@
     },
     {
         "id": 9,
-        "title": "Samsung Galaxy M33 5G",
+         "category":"mobile",
+    "title": "Samsung Galaxy M33 5G",
         "heading": "Samsung Galaxy M33 5G (Mystique Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
         "description": [
             "Exynos 1280 Octa Core 2.4GHz 5nm Processor with the 12 band support for a True 5G experience",
@@ -172,7 +181,8 @@
     },
     {
         "id": 10,
-        "title": "iQOO Neo 6 5G",
+         "category":"mobile",
+    "title": "iQOO Neo 6 5G",
         "heading": "iQOO Neo 6 5G (Dark Nova, 8GB RAM, 128GB Storage) | Only Snapdragon 870 in The Segment | 50% Charge in Just 12 Mins | 90 FPS Gaming Support*",
         "description": [
             "Snapdragon 870 5G Mobile Platform which is a 7nm process technology, It is equipped with A77 architecture adopts a large core clocked at 3.2GHz, a middle core at 2.42GHz, and a small core at 1.8GHz.",
@@ -191,6 +201,7 @@
     },
     {
         "id": 1,
+        "category": "laptop",
         "title": "ASUS VivoBook 15 ",
         "heading": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
         "description": [
@@ -210,6 +221,7 @@
     },
     {
         "id": 2,
+        "category": "laptop",
         "title": "Acer Extensa 15 ",
         "heading": "Acer Extensa 15 Thin & Light Intel Processor Pentium Silver N5030 15.6 inches ( 39 cm ) Business Laptop (4GB RAM/256 GB SSD/Windows 11 Home/Black/1.9 Kg, EX215-31)",
         "description": [
@@ -229,6 +241,7 @@
     },
     {
         "id": 3,
+        "category": "laptop",
         "title": "Microsoft Surface GO",
         "heading": "Microsoft Surface GO 3 8VA-00013 10.5' (26.67 cms) Laptop (Intel Pentium T6600 Processor/8GB/128GB SSD/Windows 11 Home), Platinum",
         "description": [
@@ -248,6 +261,7 @@
     },
     {
         "id": 4,
+        "category": "laptop",
         "title": "Infinix INBook X1",
         "heading": "Infinix INBook X1 Neo Series Celeron Quad Core - (Intel, 4 GB/128 GB SSD/Windows 11 Home) XL22 Thin and Light Laptop (14 inch (35 cm) Cosmic Blue, 1.24 kg)",
         "description": [
@@ -267,6 +281,7 @@
     },
     {
         "id": 5,
+        "category": "laptop",
         "title": "AXL Laptop",
         "heading": "AXL Laptop (Vayu Book) Newly Launched Thin & Light | 14.1 Inch HD Display (4GB/128GB SSD | 1920*1080 FHD IPS | HD Gemini Lake N4020 | Windows 11 Home | UHD Graphics 600 | Space Grey",
         "description": [
@@ -286,6 +301,7 @@
     },
     {
         "id": 6,
+        "category": "laptop",
         "title": "Lenovo IdeaPad Slim",
         "heading": "Lenovo IdeaPad Slim 3 Intel Celeron N4020 14 (35.36cm) HD Thin & Light Laptop (4GB/256GB SSD/Windows 10/Platinum Grey/1.5Kg), 81WH001NIN",
         "description": [
@@ -305,6 +321,7 @@
     },
     {
         "id": 7,
+        "category": "laptop",
         "title": "ASUS BR1100 Notebook",
         "heading": "ASUS BR1100 Notebook 12 (2022), 11.6-inch HD, Touch Screen, Intel Celeron N4500, (4GB RAM/128GB M.2 NVMe PCIe/Integrated Graphics/Windows 11 Home/Star Grey/1.40 Kg), BR1100FKA-BP1104W, Gray",
         "description": [
@@ -324,6 +341,7 @@
     },
     {
         "id": 8,
+        "category": "laptop",
         "title": "Acer Aspire 5 Gaming",
         "heading": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (12-Cores) Processor (16 GB/512 GB SSD/Windows 11 Home/4GB Graphics/NVIDIA GeForce RTX 2050) A515-57G (15.6 inch Full HD Display, Steel Gray, 1.8 Kg)",
         "description": [
@@ -343,6 +361,7 @@
     },
     {
         "id": 9,
+        "category": "laptop",
         "title": "Acer Nitro 5 Gaming",
         "heading": "Acer Nitro 5 Gaming Laptop Intel core i7 11th Gen (16 GB/ 512 GB SSD/ NVIDIA® GeForce RTX 3050 Ti/ Windows 11 Home/144hz) AN515-57 with 39.6 cm (15.6 inches) IPS Display / 2.2 Kgs",
         "description": [
@@ -362,7 +381,8 @@
     },
     {
         "id": 10,
-        "title": "Fujitsu UH-X",
+         "category":"laptop",
+    "title": "Fujitsu UH-X",
         "heading": "Fujitsu UH-X 11th Gen Intel Core i7 13.3 FHD IPS 400Nits 2-in1 Touch Convertible Laptop (16GB/1TB SSD/Windows 11/MS Office 2021/Iris Xe Graphics/2 Yr Warranty/Backlit Kb/Black/0.997 kg, 4ZR1F38027)",
         "description": [
             "Build : Made in Japan | Built with Takumi craftsmanship",
